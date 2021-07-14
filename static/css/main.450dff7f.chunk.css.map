@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/header.css"],"names":[],"mappings":"AAAA,cACA,qBAAsB,CACtB,WAAY,CACZ,iBACA","file":"main.450dff7f.chunk.css","sourcesContent":[".header-style{\nbackground-color: gray;\ncolor: wheat;\ntext-align: center;\n}"]}
